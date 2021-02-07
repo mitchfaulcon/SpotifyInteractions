@@ -1,0 +1,7 @@
+Main.class
+SpotifyInteractions\PlaylistShuffler.class
+CLI\CommandLineReader.class
+SpotifyInteractions\SpotifyAccessTokenGenerator.class
+SpotifyInteractions\SpotifyInteractor.class
+CLI\OptionsWithArgName.class
+SpotifyInteractions\SpotifyInteractorFactory.class
